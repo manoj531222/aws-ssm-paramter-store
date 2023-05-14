@@ -4,6 +4,6 @@ parameters = [
   { name = "dev.frontend.user_url", value = "http://user-dev.mdevops333.online:8080/" },
   { name = "dev.frontend.shipping_url", value = "http://shipping-dev.mdevops333.online:8080/" },
   { name = "dev.frontend.payment_url", value = "http://payment-dev.mdevops333.online:8080/" },
-  { name = "dev.catalogue.mongo_endpoint", value = "dev.mdevops333.online" }
+  { name = "dev.catalogue.mongo_endpoint", value = "mongo-dev.mdevops333.online" }
 
 ]
